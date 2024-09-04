@@ -2,7 +2,6 @@
 #include <math.h>
 #define PI 3.14159
 
-
 double askForUserInput(){
     double temp;
     scanf("%lf", &temp);
